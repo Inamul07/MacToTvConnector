@@ -1,0 +1,22 @@
+# Audio helper binary, built from audiotap.swift on first run
+/audiotap
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs and test recordings
+*.log
+*.ts
+*.wav
+
+# macOS
+.DS_Store
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
